@@ -1,0 +1,10 @@
+<resources>
+    <!-- 앱 이름은 여기 한 곳만 바꾸면 된다 -->
+    <string name="app_name">차후</string>
+    <string name="tagline">차를 세운 지금보다, 차를 찾을 나중까지</string>
+    <string name="feature">자리예보 · 두 시간 뒤에도 그늘인 자리</string>
+    <string name="duration">예상 주차 시간</string>
+    <string name="ask">"주차할 곳 알려줘"</string>
+    <string name="depart">출발 (실내 온도 기록)</string>
+    <string name="legend">■ 햇볕   ■ 그늘   ▨ 그림자</string>
+</resources>
